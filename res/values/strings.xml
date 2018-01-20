@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WustBlackList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Stranger">拦截陌生人方式</string>
+    <string-array name="Stranger_array">
+        <item >都不拦截（默认）</item>
+        <item >只拦截陌生人的电话</item>
+        <item >只拦截陌生人的短信</item>
+        <item >拦截陌生人的电话和短信</item>
+    </string-array>
+    <string name="Calling">拦截来电方式</string>
+    <string-array name="Calling_array">
+        <item >忙碌（默认）</item>
+        <item >关机</item>
+        <item >停机</item>
+        <item >空号</item>
+    </string-array>
+
+</resources>
